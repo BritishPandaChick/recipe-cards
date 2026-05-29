@@ -1,11 +1,13 @@
 # Recipe Cards
-Skillcrush 101 bonus project. Recipe Cards website. Made with HTML & CSS.
+Skillcrush 101 bonus project from updated Skillcrush 101 course. This is a web page with recipe cards stacked on top of each other.
+
+## Tech Stack
+- HTML
+- CSS
 
 ## Instructions
-Clone this repo or download the zip file. After extracting the files, open index.html file in your browser.
-
-## Contributions
-I will not be accepting any pull requests.
+1. Clone this repo or download the zip file. 
+2. Open index.html file in your browser.
 
 ## Acknowledgements
 * Skillcrush 
